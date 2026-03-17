@@ -60,3 +60,7 @@ variable "environment" {
     
   
 }
+variable "user_data" {
+    type = string
+  
+}
